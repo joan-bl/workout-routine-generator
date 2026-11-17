@@ -2,15 +2,14 @@
   "name": "workout-routine-generator",
   "version": "1.0.0",
   "private": true,
-  "description": "Advanced workout routine generator with AI exercise tracking",
+  "description": "Workout routine generator (React) with local progress tracking",
   "keywords": [
     "fitness",
     "workout",
-    "ai",
     "health",
     "exercise"
   ],
-  "author": "Your Name",
+  "author": "joan-bl",
   "license": "MIT",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
@@ -40,8 +39,6 @@
     "eject": "react-scripts eject",
     "lint": "eslint src/**/*.{js,jsx}",
     "lint:fix": "eslint src/**/*.{js,jsx} --fix",
-    "format": "prettier --write src/**/*.{js,jsx,css,md}",
-    "analyze": "npm run build && npx bundle-analyzer build/static/js/*.js",
     "serve": "npx serve -s build"
   },
   "eslintConfig": {

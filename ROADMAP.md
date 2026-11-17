@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Heavy App Clone - Implementation Roadmap
+# 🏋️‍♂️ Roadmap: full gym-tracking app
 
 ## 🎯 **Project Vision**
 

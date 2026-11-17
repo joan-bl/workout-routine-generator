@@ -1,5 +1,5 @@
 import React from "react";
-import { getUserProgress, saveUserProgress } from "../utils/personalization";
+import { getUserProgress, saveUserProgress } from "../../utils/personalization";
 
 // Planes de nutrición personalizados
 function NutritionForm({ onSubmit }) {
